@@ -1,12 +1,5 @@
-"""cv_hw1.py: Starter file to run howework 2"""
-
 #Example Usage: ./cv_hw1 -i image -k clusters -m grey
 #Example Usage: python cv_hw1 -i image -k clusters -m rgb
-
-
-__author__      = "Pranav Mantini"
-__email__ = "pmantini@uh.edu"
-__version__ = "1.0.0"
 
 import cv2
 import sys
